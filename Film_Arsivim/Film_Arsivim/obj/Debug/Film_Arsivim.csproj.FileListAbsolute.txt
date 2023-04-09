@@ -1,0 +1,11 @@
+C:\Users\ASUS\Desktop\Software\Project\Film_Arsivim\Film_Arsivim\bin\Debug\Film_Arsivim.exe.config
+C:\Users\ASUS\Desktop\Software\Project\Film_Arsivim\Film_Arsivim\bin\Debug\Film_Arsivim.exe
+C:\Users\ASUS\Desktop\Software\Project\Film_Arsivim\Film_Arsivim\bin\Debug\Film_Arsivim.pdb
+C:\Users\ASUS\Desktop\Software\Project\Film_Arsivim\Film_Arsivim\obj\Debug\Film_Arsivim.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Software\Project\Film_Arsivim\Film_Arsivim\obj\Debug\Film_Arsivim.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\Software\Project\Film_Arsivim\Film_Arsivim\obj\Debug\Film_Arsivim.Form1.resources
+C:\Users\ASUS\Desktop\Software\Project\Film_Arsivim\Film_Arsivim\obj\Debug\Film_Arsivim.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Software\Project\Film_Arsivim\Film_Arsivim\obj\Debug\Film_Arsivim.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Software\Project\Film_Arsivim\Film_Arsivim\obj\Debug\Film_Arsivim.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Software\Project\Film_Arsivim\Film_Arsivim\obj\Debug\Film_Arsivim.exe
+C:\Users\ASUS\Desktop\Software\Project\Film_Arsivim\Film_Arsivim\obj\Debug\Film_Arsivim.pdb
